@@ -118,7 +118,7 @@ The platform is designed to provide a **seamless property browsing experience** 
       firebase deploy
 ```
 ## 📸 Screenshots
-    <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/299bd6d7-864f-4481-8987-cbe8322dddf5" />
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/299bd6d7-864f-4481-8987-cbe8322dddf5" />
 
 ## 👆 Web Page Link:
   Click Me: https://realestate-44a51.web.app/#/home
@@ -130,7 +130,7 @@ The platform is designed to provide a **seamless property browsing experience** 
     Contributions are welcome! 🎉
     Please feel free to submit issues, fork the repository, and create pull requests.
 
-📧 Contact
-    For questions or support, reach out:
-      - Email: arkaroy839@gmail.com
-      - LinkedIn/Portfolio: https://www.linkedin.com/in/arka-roy-ab79a4351/
+📧 Contact For questions or support, reach out:
+    
+- **Email:** arkaroy839@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/arka-roy-ab79a4351/
